@@ -4,8 +4,6 @@ I'm a first-year Computer Science and Mathematics student at McMaster University
 
 I enjoy turning problems into working software, and I'm happiest when I'm building something and learning a new tool in the process.
 
-**Currently looking for:** a co-op or internship where I can contribute to a real team, learn from experienced engineers, and ship things people use.
-
 **What I'm studying:**
 Python and programming fundamentals, linear algebra, calculus, and discrete math. I like how the math side sharpens the way I think about code.
 
