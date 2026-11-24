@@ -18,5 +18,5 @@ Python and programming fundamentals, linear algebra, calculus, and discrete math
 - Chelsea has been my club since I was a kid, and I play Premier League fantasy every season
 - I love playing Smash Bros and my main is Fox
 - I'm a big Elden Ring fan, and yes, I run the colossal sword build
-- I love anime, and my favorites are JoJo's Bizarre Adventure and Neon Genesis Evangelion
+- I love anime, and my favorites are Code Geass and Neon Genesis Evangelion
 - **Hobbies:** anime, football, gaming, the gym, building things
