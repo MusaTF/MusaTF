@@ -11,9 +11,9 @@ Python and programming fundamentals, linear algebra, calculus, and discrete math
 
 **Tech I work with:** Python, C++, Git and GitHub. I'm adding more as I build.
 
-**Featured project:** [PROJECT NAME](https://github.com/YOUR-USERNAME/YOUR-REPO). A one-line description of what it does and what you built it with.
+**Featured project:** [PROJECT NAME](). A one-line description of what it does and what you built it with.
 
-**Let's connect:** [LinkedIn](https://linkedin.com/in/YOUR-HANDLE) or [email](mailto:YOUR-EMAIL). Always happy to talk projects, co-ops, or hackathons.
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/musa-fleming-2341743b1/) or [email](musathomasfleming@gmail.com). Always happy to talk projects, co-ops, or hackathons.
 
 **Fun Facts:**
 
