@@ -7,4 +7,4 @@ I enjoy turning problems into working software, and I'm happiest when I'm buildi
 **What I'm studying:**
 Python and programming fundamentals, linear algebra, calculus, and discrete math. I like how the math side sharpens the way I think about code.
 
-**Let's connect:** [LinkedIn](https://www.linkedin.com/in/musa-fleming-2341743b1/) or [email](mailto:musathomasfleming@gmail.com). Always happy to talk projects, co-ops, or hackathons.
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/musa-fleming-2341743b1/) or [email](mailto:musathomasfleming@gmail.com). Always happy to talk projects or hackathons.
